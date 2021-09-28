@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632844094390,
+  "timestamp": 1632847024801,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -99,8 +99,8 @@
         "/assets/swallow.mp3",
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.bba75b7ae8cb1aced85e.js",
-        "/main-es5.bba75b7ae8cb1aced85e.js",
+        "/main-es2015.79c91850170ba7b7f137.js",
+        "/main-es5.79c91850170ba7b7f137.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.0a55e92c5091b612a0de.js",
         "/polyfills-es5.cdf4d2b5156e6e0d165e.js",
@@ -213,9 +213,9 @@
     "/assets/swallow.mp3": "2410118a753bb44f184c937d5eb391417c7993ae",
     "/bg_juego.747a3fa44c9f74407964.png": "6f70847d2743b61b998d4c5e93ae7f179bde1446",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "94da6678458275309e114bd598c40b6139dce2bf",
-    "/main-es2015.bba75b7ae8cb1aced85e.js": "f45cb804fcd3dda0f6f8da47a22b705283472116",
-    "/main-es5.bba75b7ae8cb1aced85e.js": "3be7281f54f80d2b0b4d67657b3520a117ff3e28",
+    "/index.html": "65026d11a24e81184de51d004c43bff15ed4c694",
+    "/main-es2015.79c91850170ba7b7f137.js": "531708fd651c8b561df8c461e6b51bb5c152d5a5",
+    "/main-es5.79c91850170ba7b7f137.js": "f8032ed498c35a6dbd4ccdc76156c858034cb760",
     "/manifest.webmanifest": "ced026a6dee5c231b622d5765cec60946ed33267",
     "/polyfills-es2015.0a55e92c5091b612a0de.js": "266a789b05d5851b878828adc1d5c67a6bc1819a",
     "/polyfills-es5.cdf4d2b5156e6e0d165e.js": "03b77263863e56234eef5c0f6cb9350869966eee",
