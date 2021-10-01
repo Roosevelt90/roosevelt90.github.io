@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1633070412918,
+  "timestamp": 1633071215606,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,8 +11,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/5-es2015.5a80dfeb7d24ab7b2dda.js",
-        "/5-es5.5a80dfeb7d24ab7b2dda.js",
+        "/5-es2015.454b82c46a579eb35956.js",
+        "/5-es5.454b82c46a579eb35956.js",
         "/assets/No_image_available.svg.png",
         "/assets/background.png",
         "/assets/background2.png",
@@ -108,8 +108,8 @@
         "/manifest.webmanifest",
         "/polyfills-es2015.0a55e92c5091b612a0de.js",
         "/polyfills-es5.cdf4d2b5156e6e0d165e.js",
-        "/runtime-es2015.080b79b7714578bc220a.js",
-        "/runtime-es5.080b79b7714578bc220a.js",
+        "/runtime-es2015.b936981f4f37f23c0632.js",
+        "/runtime-es5.b936981f4f37f23c0632.js",
         "/styles.d78753923952e197dc60.css"
       ],
       "patterns": []
@@ -129,8 +129,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/5-es2015.5a80dfeb7d24ab7b2dda.js": "94895c0f2c5b7af18371cae713b5e6e7db26f861",
-    "/5-es5.5a80dfeb7d24ab7b2dda.js": "19cd7acb7bf228596209fead60297d1c899e407d",
+    "/5-es2015.454b82c46a579eb35956.js": "5ee61e6a8fa8bf994d268ca19c9f0da631be5fe2",
+    "/5-es5.454b82c46a579eb35956.js": "0e50262bb310a0bfd49f4d7de8e58286c430d5a4",
     "/assets/No_image_available.svg.png": "1cc56de5537cc8fe4b3054f6585fdfd78bbb1018",
     "/assets/background.png": "5e1d79032102c6158d7ba410ea3f84b848d79d88",
     "/assets/background2.png": "03cc8287073f43b4eed325ffe0ef61e521c4c34f",
@@ -221,14 +221,14 @@
     "/assets/swallow.mp3": "2410118a753bb44f184c937d5eb391417c7993ae",
     "/bg_juego.747a3fa44c9f74407964.png": "6f70847d2743b61b998d4c5e93ae7f179bde1446",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "ad81d1270c1fa72c5c9ea9875f62f79b066a71ea",
+    "/index.html": "f5f5d27969e816c68aa3ce543db05944bb77c623",
     "/main-es2015.f63ff0447e699bffb9c3.js": "9a23a24be2dffd3bdabac3975b87f426cb6579d2",
     "/main-es5.f63ff0447e699bffb9c3.js": "88b1902e70b1ebe12e6825423679b3e0f7bce6c6",
     "/manifest.webmanifest": "a52f9792ec819bc9c794e2f0abb39d873f001d4b",
     "/polyfills-es2015.0a55e92c5091b612a0de.js": "266a789b05d5851b878828adc1d5c67a6bc1819a",
     "/polyfills-es5.cdf4d2b5156e6e0d165e.js": "03b77263863e56234eef5c0f6cb9350869966eee",
-    "/runtime-es2015.080b79b7714578bc220a.js": "625cabb67aa5f04cedb60d213c9fa6ac9a2ff4a6",
-    "/runtime-es5.080b79b7714578bc220a.js": "eed894130fc197071beefcc31300b48e95d22b4b",
+    "/runtime-es2015.b936981f4f37f23c0632.js": "0805b328f896eb0fdf12641e8fb3c88925e9bb1d",
+    "/runtime-es5.b936981f4f37f23c0632.js": "9f1ca9d1d4d255fd57ab6f31db375e4924cceb2e",
     "/styles.d78753923952e197dc60.css": "c0787d994b77fb8f9a8c1794770c67cc5f9401ba"
   },
   "navigationUrls": [
